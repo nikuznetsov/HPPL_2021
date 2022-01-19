@@ -1,5 +1,7 @@
 # Final project. HPPL 2021.
 
+High-Performance Python Lab Course in Skoltech.
+
 Done by Nikita Kuznetsov and Oleg Nikolaev
 
 Name of the project: ***"Parallel ML for vacuum solar collectors thermal efficiency prediction"***

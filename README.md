@@ -6,10 +6,10 @@ Name of the project: ***"Parallel ML for vacuum solar collectors thermal efficie
 
 The main goal was to optimize parameters and models search in Sklearn with help of MPI technique.
 
-**Schematic idea:**
+## **Schematic idea:**
 
 ![alt text](https://github.com/nikuznetsov/HPPL_2021/blob/main/idea.png)
 
-**Speedup:**
+## **Speedup:**
 
 ![alt text](https://github.com/nikuznetsov/HPPL_2021/blob/main/speedup.png)

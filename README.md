@@ -1,6 +1,6 @@
 # Final project. HPPL 2021.
 
-High-Performance Python Lab Course in Skoltech.
+High-Performance Python Lab Course at Skoltech.
 
 Done by Nikita Kuznetsov and Oleg Nikolaev
 

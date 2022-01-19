@@ -8,6 +8,8 @@ The main goal was to optimize parameters and models search in Sklearn with help 
 
 Schematic idea:
 
-[alt text](Isolated.png "Title")
+![alt text](https://github.com/nikuznetsov/HPPL_2021/blob/main/idea.png)
 
 Speedup:
+
+![alt text](https://github.com/nikuznetsov/HPPL_2021/blob/main/speedup.png)

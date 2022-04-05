@@ -13,5 +13,5 @@ The main goal was to optimize parameters and models search in Sklearn with help 
 ![alt text](https://github.com/nikuznetsov/HPPL_2021/blob/main/idea.png)
 
 ## **Speedup:**
-
+Obtained with use of Intel Core i7-1065G7 1.30 GHz
 ![alt text](https://github.com/nikuznetsov/HPPL_2021/blob/main/speedup.png)
